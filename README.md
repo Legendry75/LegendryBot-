@@ -1,0 +1,2 @@
+# LegendryBot-
+Awesome Bot
